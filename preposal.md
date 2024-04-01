@@ -6,7 +6,6 @@
 3. Using/learning API from Samsara (truck dashcam company) and generate reports/notification for my drivers (my part time job)
 
 ## If you plan to collaborate with one or two classmates, what are their names?
-TODO
 Might work with Levi Wang
 
 ## Do you have any questions of your own?

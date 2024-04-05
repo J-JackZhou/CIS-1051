@@ -6,7 +6,7 @@ Conquerers (subject to change)
 
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
 
-The project will ressemblence Fire Emblem//Vanguard Bandit. The game will be a 2D top down view turned base game. There will be a main boss that need to be defeated inorder to win the game.
+The project will ressemblence Fire Emblem//Vanguard Bandit. The game will be a 2D top down view strategy turned base game. There will be a main boss that need to be defeated inorder to win the game. The game will be in a grid like screen.
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
@@ -24,16 +24,16 @@ N/A
 
 ### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
 
-I will try and accomplish finishing the map utilizing sprites, creating the movement aspect of the chracters, the AI opponents, and the different attack moves.
+I will try and accomplish finishing the map utilizing sprites, creating the movement aspect of the chracters, and the AI opponents the player can play against.
 
 ### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
 
-I think I might be able to implement terrains, multiple skills and moves for each chracter. 
+I think I might be able to implement terrains, and restricted area. Being able to implement multiple skills and moves for each chracter. Adding different sound effects and background music. 
 
 ### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
 
-The best possible I am looking for is to create a final boss, with special animations and moves, so it can give a sense of special feeling. I think the most complex aspect is creating a perfect AI//opponent health, and attack ratio where the game will not feel impossible to beat, and not too easy where the game is pointless.
+The best possible I am looking for is to create a final boss, with special animations and moves, so it can give a sense of special feeling. I think the most complex aspect is creating a perfect AI//opponent health, and attack ratio where the game will not feel impossible to beat, and not too easy where the game is pointless. 
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
-My first step is to do research on all the major features pygame provides. I will learn how to implement photos into programming. So far in my learning all the user inputs have been typing words and pressing enter, so I will need to figure out how to inmplent keyboard keys as an input without pressing "enter" everytime. I believe alot of math will be needed inorder to create the ratio of attack, health, and mana, which I will need to figure out a formula to have a balance stat for every chracter. I will need to learn how to run my code and implement it as an actaul software. 
+My first step is to do research on all the major features pygame provides. I will learn how to implement photos into programming and splitting it into grid. So far in my learning all the user inputs have been typing words and pressing enter, so I will need to figure out how to inmplent keyboard keys as an input without pressing "enter" everytime. I will have to learn to have the game to be less static. I believe alot of creative math will be needed inorder to create the ratio of attack, health, and mana, which I will need to figure out a formula and algorithm to easier generate balance stat for every chracter. I will need to learn how to run my code and implement it as an actaul software. Learning more on how to use Github to save each steps of my code.
